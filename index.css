@@ -9,7 +9,7 @@ body {
 .container {
     background: lightcoral ;
     max-width: 75% ;
-    height: 75%;
+    max-height: 75%;
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
